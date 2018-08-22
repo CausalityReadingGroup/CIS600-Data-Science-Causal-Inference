@@ -1,2 +1,2 @@
-# CIS600-SexyCausalInference
-Materials for a course in causal inference at SU
+# CIS600-Data-Science-Causal-Inference
+
