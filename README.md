@@ -1,4 +1,5 @@
 # CIS600-Data-Science-Causal-Inference
 
-[Syllabus](Syllabus.pdf)
-[Schedule](Schedule.pdf)
+# [Syllabus](Syllabus.pdf)
+
+# [Schedule](Schedule.pdf)
